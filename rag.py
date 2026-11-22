@@ -49,7 +49,7 @@ documents = [
     "Students must maintain 75% attendance to be allowed to sit in the final exams.",
 ]
 # Read text from our PDF
-pdf_path = "AOT/Attack_on_Titan_RAG_Study_Guide.pdf"
+pdf_path = "Attack_on_Titan_RAG_Study_Guide.pdf"
 
 reader = PdfReader(pdf_path)
 
